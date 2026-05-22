@@ -1,8 +1,6 @@
-<img width="350" height="350" alt="ogs-mt-logo" src="https://github.com/user-attachments/assets/d03854c8-c2e1-468f-9f8a-269f498d169c" />
-
-# Open Grand Strategy - Map Tool 
-The OpenGS Map Tool is a specialized utility designed to streamline the creation of map data for use in grand strategy games. 
-Province and territory maps form the backbone of these games, defining the geographical regions that players interact with.
+# Twelve Star games - Map Tool 
+Forked from OpenGS - Map tool for specialized usage within Twelve star games.
+This fork and unique assets are private property and is NOT covered by the MIT licence of the original project.
 
 ## Features
 - Generate and Export province maps
@@ -108,15 +106,3 @@ Check "Jagged Land Borders" or "Jagged Ocean Borders" to produce natural-looking
 
 Province map and the file containing province information (id, rgb, type, coordinates, terrain) can be exported after generation. The terrain field is included when a terrain image has been imported.
 Territory history files (defining the belonging provinces per territory) can be exported after generation.
-
-## Contributions
-Contributions can come in many forms and all are appreciated:
-- Feedback
-- Code improvements
-- Added functionality
-
-## Discord 
-Follow and/or support the project on [OpenGS Discord Server](https://discord.gg/6pRc9f6g6S)
-
-## Delivered and maintained by 
-<img width="350" height="350" alt="gsi-logo" src="https://github.com/user-attachments/assets/e7210566-7997-4d82-845e-48f249d439a0" />
